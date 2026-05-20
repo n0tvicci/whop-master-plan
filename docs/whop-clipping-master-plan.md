@@ -261,3 +261,16 @@ The rule: **if a clip formula worked once, make 3 more versions of it before mov
 6. One niche for 60 days before expanding
 7. Post at US prime time (morning PH time)
 8. Study your best clip every week and make a version of it again
+
+---
+
+## Critical Checks
+
+**Verify before posting Day 1:**
+Confirm in your Whop creator dashboard which platforms count toward payout. If TikTok-only, recalculate: you need 167k TikTok views alone, not split across 3.
+
+**Instagram rule (final):**
+Post max 2 clips per day on Instagram. Use your 3rd clip as TikTok-only. TikTok is your primary Whop tracking platform anyway.
+
+**Month 1 pivot signal:**
+If by Day 30 your top-performing clip has under 1,000 views — stop. Rewrite every hook using new formats. Do not increase volume until at least one clip breaks 1,000 views.
