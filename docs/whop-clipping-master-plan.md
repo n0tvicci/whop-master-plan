@@ -165,6 +165,7 @@ To attract a Tier 1 audience even while posting from the Philippines:
 - **Pick US-dominant topics** — AI tools and income content is overwhelmingly consumed by US audiences
 - **Do NOT use a VPN to fake your region** — TikTok flags this and it causes the shadowban you're trying to avoid. Let the content naturally attract US viewers instead.
 - **When browsing campaigns:** prioritize ones with no geo-restriction as a safety net while your audience builds
+- **Track your Tier 1 view ratio weekly** — in TikTok Analytics, check your audience country breakdown. If your US% is under 40%, do not scale yet — adjust your posting time and audio first before adding more volume
 
 ---
 
@@ -180,6 +181,9 @@ Screen record the programs. Edit 3 clips in CapCut. Add text overlays, trending 
 
 **Step 3 — Evening (7–8am PH = 7–8pm EST) | 30–45 min**
 Upload the same clip to TikTok, Instagram Reels, and YouTube Shorts. Write captions + hashtags for each.
+
+**Saturday — Batch Day (replaces normal daily workflow):**
+Instead of making 3 clips to post today, make 5–7 clips and save them as drafts. This gives you a buffer for weeks when you're sick, burnt out, or too busy to edit. Never let your draft folder go below 3 clips. If you miss a day, pull from drafts — do not skip posting.
 
 **Caption formula:**
 - Line 1: Repeat the hook or ask a question
@@ -235,12 +239,13 @@ Views target: 120k–150k+ | Estimated earnings: $480–$600
 - On Instagram, trending audio shows a small arrow icon next to the sound name when creating a Reel
 
 **Weekly optimization — what to actually do:**
-Every week, look at your last 7 clips and answer these 4 questions:
+Every week, look at your last 7 clips and answer these 5 questions:
 
 1. Which clip got the most views? — Recreate a version of it with a different hook next week
 2. What was the hook on your worst-performing clip? — That hook is dead, never use that format again
 3. What audio was used on your best clip? — Use the same audio or similar energy audio on next week's clips
 4. Which platform gave you the most views? — Post your best clip there first next week
+5. What is your Tier 1 view ratio on TikTok this week? — Check TikTok Analytics → Followers → Top territories. If US+UK+CA+AU+NZ combined is under 40%, shift your post time earlier (try 7am PH instead of 8am) and switch to a different trending US audio next week
 
 The rule: **if a clip formula worked once, make 3 more versions of it before moving on.**
 
