@@ -212,7 +212,7 @@ Instead of making 3 clips to post today, make 5–7 clips and save them as draft
 - **Canva** (free) — profile picture and logo creation
 - **TikTok / Instagram / YouTube** — your posting platforms
 - **whop.com** — finding campaigns to clip
-- **Built-in screen recorder** — capturing tool demos (Windows: Win+G / Mac: Cmd+Shift+5)
+- **Built-in screen recorder** — capturing footage from free trials or program landing pages (Windows: Win+G / Mac: Cmd+Shift+5)
 
 ---
 

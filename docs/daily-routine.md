@@ -48,7 +48,7 @@ Pick 1–2 programs to clip today. Write them down. That is your recording list 
 
 Open `prompts/content-idea-prompt.md`.
 
-This prompt is built for entertainment programs: creator communities, exclusive content clubs, podcast memberships, fan communities, and entertainment tools. If you are clipping a tool, software, or AI product, this prompt still works as a structural guide — adapt the SHOWCASE beat to show the tool's output or demo instead.
+This prompt is built for entertainment programs: creator communities, exclusive content clubs, podcast memberships, fan communities, and entertainment tools.
 
 **What this prompt does:**
 Generates 3 fully built clip ideas — each with a different hook format (FOMO / Reaction-POV / Exclusive reveal), exact hook text, what appears in frame 1, a timestamped showcase flow, exact text overlay copy, retention hook for seconds 3–8, pattern interrupt at seconds 10–12, re-watch factor, viral angle, audio direction, caption copy, and execution difficulty. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
@@ -66,16 +66,14 @@ Generates 3 fully built clip ideas — each with a different hook format (FOMO /
 
 Follow the flow from the idea you picked.
 
-**Self-recorded campaigns (tool/AI/trading/MMO):**
-- Open the program (free trial, free tier, or public demo page)
-- Capture the content — whatever format fits the clip idea (screen capture, phone record of a result, or download of a public output)
-- Capture more footage than you need — cut it down in editing
-- Prioritize the moment the output or result appears — that is your clip's payoff
+**Where to get your footage:**
+- Free trial — join the trial, screen record the best moments inside, cancel before billing
+- Public social posts — many creators share highlights from inside their community publicly on TikTok, Instagram, or YouTube
+- Program landing page — the Whop sales page often has a trailer, demo reel, or highlight clip you can use
+- Creator's public content — shows the style and vibe of what's inside the program
+- Member testimonials — search for public reviews or reaction videos on TikTok or YouTube
 
-**Provided content campaigns (entertainment, creator communities, podcasts):**
-- Use the sources outlined in `content-idea-prompt-entertainment.md`: provided source videos, creator's public social posts, program landing page trailer, or public member highlights
-- Identify the single most surprising, funny, or curiosity-triggering 20–28 second moment in the source material
-- Capture more than you need — you will cut down in editing
+Identify the single most surprising, funny, or curiosity-triggering 20–28 second moment in the source material. Capture more than you need — you will cut it down in editing.
 
 ### Step 6 — Edit in CapCut
 

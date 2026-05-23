@@ -64,12 +64,12 @@ Only proceed if verdict is **CLIP IT** or **CLIP IT IF** (and you meet the condi
 - Can you access the program without paying? Free trial, free tier, or public demo page.
 - What is the payout rate? Rates vary widely — some campaigns pay $0.50/1k (music, entertainment), others pay $3–5/1k (AI tools, finance). Factor this into your effort-to-earnings calculation.
 
-**Two types of campaigns — know which one you're working with:**
+**Two ways to get your footage — know which applies:**
 
-- **Self-recorded:** You access the program and capture the content yourself — tool demos, dashboards, results. You find the angle.
-- **Provided content:** The client gives you source videos (long-form content, podcast footage, vlogs, music videos). Your job is to find the best viral moment inside that content and clip it into a short. Read the campaign's Google Doc — it will tell you what source material they're providing and exactly what they want you to clip.
+- **Self-sourced:** You find the footage yourself — free trial access, the program's landing page trailer, the creator's public social posts, or public member highlights. You find the best moment and build the clip around it.
+- **Provided content:** The campaign gives you source videos (podcast footage, vlogs, community highlights, music videos). Read the campaign's Google Doc — it tells you exactly what source material they're providing and what they want clipped.
 
-For provided content campaigns: watch the source material first, identify the single most surprising, funny, or curiosity-triggering 20–28 second moment, then build your clip around that moment.
+Either way: identify the single most surprising, funny, or curiosity-triggering 20–28 second moment in the source material, then build your clip around that moment.
 
 ---
 
@@ -78,11 +78,9 @@ For provided content campaigns: watch the source material first, identify the si
 Every clip follows this 3-beat structure. No exceptions.
 
 ```
-[0–3s]   HOOK        — Bold text on screen. One idea. Must stop the scroll.
-[3–18s]  DEMO        — Your footage. Cut every 1–2 seconds. Text overlays showing the content.
-           (Entertainment: SHOWCASE — community highlights, exclusive content previews, reactions)
-[18–28s] RESULT      — The outcome. What changed. Reaction text overlay.
-           (Entertainment: PAYOFF — the most compelling or FOMO-triggering moment)
+[0–3s]   HOOK      — Bold text on screen. One idea. Must stop the scroll.
+[3–18s]  SHOWCASE  — Your footage. Cut every 1–2 seconds. Community highlights, exclusive content previews, reactions.
+[18–28s] PAYOFF    — The most compelling or FOMO-triggering moment. Reaction text overlay.
 ```
 
 **Total length:** 20–28 seconds. No voiceover. Story is told through text overlays + your footage + trending audio.
@@ -106,7 +104,7 @@ Every clip follows this 3-beat structure. No exceptions.
 After a campaign passes the evaluator, use:
 `prompts/content-idea-prompt.md`
 
-Built for entertainment programs (creator communities, exclusive content, podcasts, fan clubs). Generates 3 full clip ideas — each with a different hook format (FOMO / Reaction-POV / Exclusive reveal), exact hook text, timestamped showcase flow, text overlay copy, retention hook, pattern interrupt, re-watch factor, audio direction, and caption. Also works as a structural guide for tool or AI campaigns — adapt the SHOWCASE beat to show the tool demo. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
+Built for entertainment programs (creator communities, exclusive content, podcasts, fan clubs). Generates 3 full clip ideas — each with a different hook format (FOMO / Reaction-POV / Exclusive reveal), exact hook text, timestamped showcase flow, text overlay copy, retention hook, pattern interrupt, re-watch factor, audio direction, and caption. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
 
 ---
 
@@ -267,7 +265,7 @@ If by Day 30 your best clip has under 1,000 views — stop. Rewrite every hook f
 
 **`prompts/program-evaluator-prompt.md`** — Scores any campaign before you commit. Saves you from wasting time on clips that won't pay out.
 
-**`prompts/content-idea-prompt.md`** — Built for entertainment programs. Turns a campaign into 3 ready-to-execute clip ideas, each with a different hook format, exact hook text, showcase flow with timestamps, text overlay copy, retention hook, pattern interrupt, re-watch factor, viral angle, audio direction, and caption. Also works as a structural guide for tool or AI campaigns.
+**`prompts/content-idea-prompt.md`** — Built for entertainment programs. Turns a campaign into 3 ready-to-execute clip ideas, each with a different hook format, exact hook text, showcase flow with timestamps, text overlay copy, retention hook, pattern interrupt, re-watch factor, viral angle, audio direction, and caption.
 
 **`prompts/caption-writer-prompt.md`** — Generates copy-paste captions for all 3 platforms plus a TikTok first comment.
 
