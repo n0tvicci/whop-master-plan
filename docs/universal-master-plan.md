@@ -78,9 +78,11 @@ For provided content campaigns: watch the source material first, identify the si
 Every clip follows this 3-beat structure. No exceptions.
 
 ```
-[0–3s]   HOOK    — Bold text on screen. One idea. Must stop the scroll.
-[3–18s]  DEMO    — Your footage. Cut every 1–2 seconds. Text overlays showing the content.
-[18–28s] RESULT  — The outcome. What changed. Reaction text overlay.
+[0–3s]   HOOK        — Bold text on screen. One idea. Must stop the scroll.
+[3–18s]  DEMO        — Your footage. Cut every 1–2 seconds. Text overlays showing the content.
+           (Entertainment: SHOWCASE — community highlights, exclusive content previews, reactions)
+[18–28s] RESULT      — The outcome. What changed. Reaction text overlay.
+           (Entertainment: PAYOFF — the most compelling or FOMO-triggering moment)
 ```
 
 **Total length:** 20–28 seconds. No voiceover. Story is told through text overlays + your footage + trending audio.
@@ -104,7 +106,7 @@ Every clip follows this 3-beat structure. No exceptions.
 After a campaign passes the evaluator, use:
 `prompts/content-idea-prompt.md`
 
-Generates 3 full clip ideas with exact hook text, timestamped demo flow, text overlay copy, audio direction, and caption. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
+Built for entertainment programs (creator communities, exclusive content, podcasts, fan clubs). Generates 3 full clip ideas — each with a different hook format (FOMO / Reaction-POV / Exclusive reveal), exact hook text, timestamped showcase flow, text overlay copy, retention hook, pattern interrupt, re-watch factor, audio direction, and caption. Also works as a structural guide for tool or AI campaigns — adapt the SHOWCASE beat to show the tool demo. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
 
 ---
 
@@ -140,12 +142,12 @@ Browse Whop. Evaluate campaigns with `program-evaluator-prompt.md`. Lock in 1–
 Generate ideas with `content-idea-prompt.md`. Capture your footage. Edit 3 clips in CapCut. Run `pre-upload-checklist.md`. Export without watermark.
 
 **Evening | 7–8pm PH | 30–45 min**
-Write captions with `caption-writer-prompt.md`. Upload to TikTok → Reels → Shorts. Post first comment on TikTok within 60 seconds. **Then submit each clip link to Whop** (see Submission section below).
+Write captions with `caption-writer-prompt.md`. Schedule uploads to TikTok → Reels → Shorts for 7–9am PH delivery using each platform's built-in scheduler. Set an alarm — when TikTok goes live at 7–9am PH, post the first comment within 60 seconds. **Submit each clip link to Whop after it goes live** (see Submission section below).
 
 **Saturday — Batch Day:**
-Make 5–7 clips, save as drafts. Never let the draft folder drop below 3. Pull from drafts on bad days — never skip posting.
+Make 5–7 clips, save as drafts. Never let the draft folder drop below 3. Pull from drafts on bad days — never skip posting. **Plan for 5–8 hours — this is a full day of work.**
 
-**Posting time:** 7–10am PH = 7–10pm EST (US prime time)
+**Posting time:** 7–9am PH = 7–9pm EDT (US prime time). Do not post live in the evening — 7–8pm PH = 6–7am EST, which is US early morning, not prime time. Always use scheduled posting.
 
 ---
 
@@ -223,6 +225,8 @@ Paste your week's stats and follow the action plan it returns for the next 7 day
 
 ## $500/Month Roadmap
 
+**Payout assumption:** These projections assume campaigns paying $2.50–$4/1k views (AI tools, SaaS, finance, trading). Entertainment campaigns pay $0.50–$1/1k — at those rates, $500/month requires 500k–1M views and is not realistic in this timeframe. Prioritize high-payout campaigns.
+
 **Month 1**
 Views: 0–20k | Earnings: $0
 Post every day. Learn what the algorithm rewards. Every clip is a data point.
@@ -263,7 +267,7 @@ If by Day 30 your best clip has under 1,000 views — stop. Rewrite every hook f
 
 **`prompts/program-evaluator-prompt.md`** — Scores any campaign before you commit. Saves you from wasting time on clips that won't pay out.
 
-**`prompts/content-idea-prompt.md`** — Turns a campaign into 3 ready-to-execute clip ideas with exact hooks, timestamps, overlays, and audio direction.
+**`prompts/content-idea-prompt.md`** — Built for entertainment programs. Turns a campaign into 3 ready-to-execute clip ideas, each with a different hook format, exact hook text, showcase flow with timestamps, text overlay copy, retention hook, pattern interrupt, re-watch factor, viral angle, audio direction, and caption. Also works as a structural guide for tool or AI campaigns.
 
 **`prompts/caption-writer-prompt.md`** — Generates copy-paste captions for all 3 platforms plus a TikTok first comment.
 

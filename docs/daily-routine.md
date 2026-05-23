@@ -42,20 +42,20 @@ Pick 1–2 programs to clip today. Write them down. That is your recording list 
 ---
 
 ## MIDDAY BLOCK — Content Creation
-**1:00–3:00pm PH | 90 minutes**
+**1:00–3:00pm PH | 90 minutes (allow 2.5–3 hours in your first month)**
 
 ### Step 4 — Generate Clip Ideas with the Content Idea Prompt
 
-Open the correct prompt for your niche:
-- **Tool/software/AI/trading/MMO niche** → `prompts/content-idea-prompt.md`
-- **Entertainment niche** (creator communities, exclusive content, podcasts, fan clubs) → `prompts/content-idea-prompt-entertainment.md`
+Open `prompts/content-idea-prompt.md`.
 
-**What these prompts do:**
-Both generate 3 fully built clip ideas — each with a different hook format, exact hook text, what appears in frame 1, a timestamped showcase flow, exact text overlay copy, retention hook for seconds 3–8, pattern interrupt at seconds 10–12, re-watch factor, viral angle, audio direction, caption copy, and execution difficulty. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
+This prompt is built for entertainment programs: creator communities, exclusive content clubs, podcast memberships, fan communities, and entertainment tools. If you are clipping a tool, software, or AI product, this prompt still works as a structural guide — adapt the SHOWCASE beat to show the tool's output or demo instead.
+
+**What this prompt does:**
+Generates 3 fully built clip ideas — each with a different hook format (FOMO / Reaction-POV / Exclusive reveal), exact hook text, what appears in frame 1, a timestamped showcase flow, exact text overlay copy, retention hook for seconds 3–8, pattern interrupt at seconds 10–12, re-watch factor, viral angle, audio direction, caption copy, and execution difficulty. Pick the idea with the strongest hook AND a "Yes" execution difficulty.
 
 **How to use:**
 1. Copy the campaign name, what the program does or offers, and its key features
-2. Open the correct prompt file → copy the full prompt
+2. Open `prompts/content-idea-prompt.md` → copy the full prompt
 3. Paste into Claude or ChatGPT
 4. Replace the campaign placeholder at the bottom with your program details
 5. Read all 3 ideas
@@ -112,9 +112,9 @@ It catches every technical and content mistake before the clip goes live — wea
 
 ---
 
-## EVENING BLOCK — Upload
+## EVENING BLOCK — Prepare & Schedule Upload
 **7:00–8:00pm PH | 30–45 minutes**
-*(This equals 7–8pm EST — US prime time. Do not post earlier or later.)*
+*(US prime time is 7–9am PH = 7–9pm EDT. Prepare your uploads now and use each platform's scheduled post feature to deliver at 7–9am PH. Posting live at 7–8pm PH = 6–7am EST — not prime time. Do not post live in the evening.)*
 
 ### Step 8 — Write Captions with the Caption Writer Prompt
 
@@ -137,17 +137,19 @@ It generates a ready-to-copy-paste caption for all 3 platforms — TikTok, Insta
 **TikTok:**
 - Upload the clean file (not downloaded from TikTok)
 - Paste TikTok caption — must include `#whop` for Content Rewards tracking
-- Post
-- Immediately post the first comment from the caption prompt (do this within 60 seconds of upload)
+- Use TikTok's built-in scheduled post feature — set delivery for 7–9am PH (not post live now)
+- When the scheduled post goes live, immediately post the first comment from the caption prompt within 60 seconds — set a phone alarm for the delivery time
 
 **Instagram Reels:**
 - Upload the same clean file
 - Paste Reels caption — must tag `@whop`
+- Schedule delivery for 7–9am PH using Instagram's built-in scheduler (tap the clock icon before posting)
 - Maximum 2 Reels per day on Instagram — if you made 3 clips today, post 2 on Reels and save the 3rd for TikTok/Shorts only
 
 **YouTube Shorts:**
 - Upload the same clean file
 - Paste YouTube description — must include the word "whop" somewhere
+- Schedule delivery for 7–9am PH using YouTube Studio's scheduling option
 
 ### Step 10 — Submit Every Clip to Whop
 
@@ -173,9 +175,10 @@ Write down for each clip:
 - Program/niche
 - Which platform you posted on
 - Whether it was submitted to Whop
-- Date and time posted
+- Date and time posted (scheduled delivery time, not prep time)
+- Saves and shares (update this the next morning after the clip has been live for 24 hours)
 
-You will need this for the Sunday weekly review.
+You will need all of this — including saves and shares — for the Sunday weekly review prompt.
 
 ---
 
@@ -240,11 +243,8 @@ It diagnoses exactly why your original hook failed — too generic, too vague, t
 **You see a campaign on Whop that looks interesting**
 → `prompts/program-evaluator-prompt.md`
 
-**Campaign passed the evaluator — need video ideas (tool / AI / trading / MMO niche)**
+**Campaign passed the evaluator — need video ideas**
 → `prompts/content-idea-prompt.md`
-
-**Campaign passed the evaluator — need video ideas (entertainment niche)**
-→ `prompts/content-idea-prompt-entertainment.md`
 
 **Finished editing — need captions for all 3 platforms**
 → `prompts/caption-writer-prompt.md`
@@ -274,12 +274,12 @@ It diagnoses exactly why your original hook failed — too generic, too vague, t
 - [ ] Run `pre-upload-checklist.md` before exporting
 - [ ] Export without watermark
 
-**Evening (7–8pm PH / 7–8pm EST)**
+**Evening (7–8pm PH) — prepare & schedule for 7–9am PH delivery**
 - [ ] Generate captions with `caption-writer-prompt.md`
-- [ ] Upload to TikTok → post first comment within 60 seconds
-- [ ] Upload to Instagram Reels (max 2 per day)
-- [ ] Upload to YouTube Shorts
-- [ ] Submit every clip link to Whop (one submission per clip per platform)
+- [ ] Schedule TikTok upload for 7–9am PH — set alarm to post first comment when it goes live
+- [ ] Schedule Instagram Reels for 7–9am PH (max 2 per day)
+- [ ] Schedule YouTube Shorts for 7–9am PH
+- [ ] Submit every clip link to Whop after each goes live (one submission per clip per platform)
 - [ ] Log today's clips (hook text, niche, platform, submitted, date)
 
 **Saturday**
