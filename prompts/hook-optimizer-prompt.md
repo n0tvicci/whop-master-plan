@@ -39,10 +39,10 @@ For each variation give me:
 - Text formatting: recommended font size (large/extra large), text color, and screen position (top/center/bottom)
 - One sentence on why this angle is stronger than the original
 - Audio sync note: at what moment in the audio should this text appear for maximum impact?
-- Difficulty to execute: Easy / Medium (does it require a different demo setup?)
+- Difficulty to execute: Easy / Medium (does it require different footage?)
 
 Original hook: [PASTE YOUR ORIGINAL HOOK TEXT HERE]
-What the clip was about: [DESCRIBE THE PROGRAM OR TOOL IN 1-2 SENTENCES]
+What the clip was about: [DESCRIBE THE PROGRAM, CONTENT, OR TOPIC IN 1-2 SENTENCES]
 Total views: [PASTE VIEW COUNT]
 Average completion rate (if available): [e.g. 15% / unknown]
 Platform it flopped on: [TIKTOK / REELS / SHORTS / ALL THREE]

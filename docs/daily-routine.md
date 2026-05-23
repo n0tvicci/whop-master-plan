@@ -12,7 +12,7 @@ Go to `whop.com/clips` and browse available campaigns.
 
 Look for campaigns with:
 - Active budget remaining (check the budget bar — no budget = no payout even with views)
-- Visual product you can screen record within 20 seconds
+- Visual product or content you can clip within 20 seconds
 - Free trial, free tier, or public demo you can access without paying
 - No geo-restriction, OR geo-restriction to Tier 1 countries (US/UK/CA/AU/NZ) — those pay more
 
@@ -62,20 +62,20 @@ Both generate 3 fully built clip ideas — each with a different hook format, ex
 6. Pick the one with: strongest hook text + "Yes" execution difficulty
 7. Use the timestamped flow as your recording and editing script
 
-### Step 5 — Record Your Footage
+### Step 5 — Capture Your Footage
 
 Follow the flow from the idea you picked.
 
-**Tool/software niches:**
+**Self-recorded campaigns (tool/AI/trading/MMO):**
 - Open the program (free trial, free tier, or public demo page)
-- Record using Windows screen recorder (Win+G) or Mac (Cmd+Shift+5)
-- Record more footage than you need — cut it down in editing
-- Capture the moment the output or result appears — that is your clip's payoff
+- Capture the content — whatever format fits the clip idea (screen capture, phone record of a result, or download of a public output)
+- Capture more footage than you need — cut it down in editing
+- Prioritize the moment the output or result appears — that is your clip's payoff
 
-**Entertainment niche:**
-- Use the sources outlined in `content-idea-prompt-entertainment.md`: free trial footage, creator's public social posts, program landing page trailer, or public member highlights
-- Capture the most exciting or exclusive-feeling moments — community activity, highlight clips, reactions
-- Record more than you need — you will cut down in editing
+**Provided content campaigns (entertainment, creator communities, podcasts):**
+- Use the sources outlined in `content-idea-prompt-entertainment.md`: provided source videos, creator's public social posts, program landing page trailer, or public member highlights
+- Identify the single most surprising, funny, or curiosity-triggering 20–28 second moment in the source material
+- Capture more than you need — you will cut down in editing
 
 ### Step 6 — Edit in CapCut
 
@@ -188,7 +188,7 @@ Instead of making 3 clips to post today, make 5–7 clips and save them as draft
 
 **Batch day workflow:**
 1. Morning: Evaluate 3–4 campaigns with `program-evaluator-prompt.md`
-2. Afternoon: Generate ideas for all of them with `content-idea-prompt.md`, screen record all, edit all in CapCut
+2. Afternoon: Generate ideas for all of them with `content-idea-prompt.md`, capture footage for all, edit all in CapCut
 3. Evening: Run `pre-upload-checklist.md` on each clip, write captions with `caption-writer-prompt.md`, save as drafts
 
 ---
@@ -269,7 +269,7 @@ It diagnoses exactly why your original hook failed — too generic, too vague, t
 
 **Midday (1–3pm)**
 - [ ] Generate ideas with `content-idea-prompt.md`
-- [ ] Screen record the programs
+- [ ] Capture your footage
 - [ ] Edit 3 clips in CapCut (Hook → Demo → Result)
 - [ ] Run `pre-upload-checklist.md` before exporting
 - [ ] Export without watermark

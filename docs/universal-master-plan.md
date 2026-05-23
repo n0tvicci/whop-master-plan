@@ -66,7 +66,7 @@ Only proceed if verdict is **CLIP IT** or **CLIP IT IF** (and you meet the condi
 
 **Two types of campaigns — know which one you're working with:**
 
-- **Self-recorded:** You access the program and screen record it yourself — tool demos, dashboards, results. You find the angle.
+- **Self-recorded:** You access the program and capture the content yourself — tool demos, dashboards, results. You find the angle.
 - **Provided content:** The client gives you source videos (long-form content, podcast footage, vlogs, music videos). Your job is to find the best viral moment inside that content and clip it into a short. Read the campaign's Google Doc — it will tell you what source material they're providing and exactly what they want you to clip.
 
 For provided content campaigns: watch the source material first, identify the single most surprising, funny, or curiosity-triggering 20–28 second moment, then build your clip around that moment.
@@ -79,11 +79,11 @@ Every clip follows this 3-beat structure. No exceptions.
 
 ```
 [0–3s]   HOOK    — Bold text on screen. One idea. Must stop the scroll.
-[3–18s]  DEMO    — Screen recording with text overlays showing the program in action.
+[3–18s]  DEMO    — Your footage. Cut every 1–2 seconds. Text overlays showing the content.
 [18–28s] RESULT  — The outcome. What changed. Reaction text overlay.
 ```
 
-**Total length:** 20–28 seconds. No voiceover. Story is told through text overlays + screen recording + trending audio.
+**Total length:** 20–28 seconds. No voiceover. Story is told through text overlays + your footage + trending audio.
 
 **Inside the Demo — what keeps people watching:**
 - **Seconds 3–8:** Add a retention hook — tease the result before showing it. "and this is where it gets insane" as a text overlay.
@@ -137,7 +137,7 @@ Diagnoses why the hook failed. Rewrites it into 5 stronger variations. Remake th
 Browse Whop. Evaluate campaigns with `program-evaluator-prompt.md`. Lock in 1–2 programs to clip today.
 
 **Midday | 1–3pm PH | 90 min**
-Generate ideas with `content-idea-prompt.md`. Screen record. Edit 3 clips in CapCut. Run `pre-upload-checklist.md`. Export without watermark.
+Generate ideas with `content-idea-prompt.md`. Capture your footage. Edit 3 clips in CapCut. Run `pre-upload-checklist.md`. Export without watermark.
 
 **Evening | 7–8pm PH | 30–45 min**
 Write captions with `caption-writer-prompt.md`. Upload to TikTok → Reels → Shorts. Post first comment on TikTok within 60 seconds. **Then submit each clip link to Whop** (see Submission section below).

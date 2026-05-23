@@ -16,7 +16,7 @@ Run through this before uploading every single clip. If any item is unchecked, f
 
 ## DEMO (Seconds 3–18)
 
-- [ ] Screen recording is clear and high quality — not blurry or laggy
+- [ ] Footage is clear and high quality — not blurry or laggy
 - [ ] There is zero dead air — something is always happening on screen
 - [ ] Cuts happen every 1–2 seconds — nothing overstays its welcome
 - [ ] Text overlays are present on screen explaining each step
